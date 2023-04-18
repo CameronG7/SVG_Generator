@@ -29,6 +29,8 @@ It also strengthened my knowledge of using classes in Javascript as well as usin
 To install the project simply clone the repo to a directory on your machine. Example installation shown in the video below
 
 ## Usage
+[Untitled_ Apr 17, 2023 5_39 PM.webm](https://user-images.githubusercontent.com/122698132/232640128-b9166eb0-2c61-45f9-af80-15f3a37816e0.webm)
+
 
 Once installed, open the project directory in your terminal and run ``` npm i ``` in the command line. This will install any dependancies needed. Then run ``` node index.js``` and answer the questions. The READMe will be generated in the the directory.
 
